@@ -14,6 +14,7 @@ Dans le dossier 'serveur projet p6', lancer 'node server'.
 La partie front créée par OpenClassrooms est accessible avec le lien suivant:  
 https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6  
 Dans le dossier 'Web-Developer-P6', taper 'npm start'.
+Dans le navigateur indiquer 'localhost:4200'.
 
 # Objectif
 Le but de ce 6ème projet d'OpenClassrooms était de construire une API sécurisée pour une application d'avis gastronomiques.
